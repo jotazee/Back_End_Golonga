@@ -1,3 +1,5 @@
+Univassouras-Back End
+José Carlos Silva Pimentel - 202422916
 # Sistema Web de Gestão de Tarefas
 Projeto inicial da disciplina Laboratório de Programação Back End.
 ## Pré-requisito
